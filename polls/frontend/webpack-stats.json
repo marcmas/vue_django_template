@@ -1,0 +1,31 @@
+{
+  "status": "done",
+  "assets": {
+    "img/logo.82b9c7a5.png": {
+      "name": "img/logo.82b9c7a5.png",
+      "path": "/Users/marcinmasloch/djangoApps/vue-django-template/vue_django_template/djangovue/polls/frontend/dist/img/logo.82b9c7a5.png",
+      "publicPath": "http://0.0.0.0:8080/img/logo.82b9c7a5.png"
+    },
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/Users/marcinmasloch/djangoApps/vue-django-template/vue_django_template/djangovue/polls/frontend/dist/js/app.js",
+      "publicPath": "http://0.0.0.0:8080/js/app.js"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/Users/marcinmasloch/djangoApps/vue-django-template/vue_django_template/djangovue/polls/frontend/dist/index.html",
+      "publicPath": "http://0.0.0.0:8080/index.html"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/Users/marcinmasloch/djangoApps/vue-django-template/vue_django_template/djangovue/polls/frontend/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8080/favicon.ico"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8080/"
+}

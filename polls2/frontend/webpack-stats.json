@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "assets": {
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/Users/marcinmasloch/djangoApps/vue-django-template/vue_django_template/djangovue/polls2/frontend/dist/js/app.js",
+      "publicPath": "http://0.0.0.0:8081/js/app.js"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/Users/marcinmasloch/djangoApps/vue-django-template/vue_django_template/djangovue/polls2/frontend/dist/index.html",
+      "publicPath": "http://0.0.0.0:8081/index.html"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/Users/marcinmasloch/djangoApps/vue-django-template/vue_django_template/djangovue/polls2/frontend/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8081/favicon.ico"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8081/"
+}
